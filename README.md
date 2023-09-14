@@ -21,7 +21,7 @@ graph LR
 
 ## 环境配置和软件安装
 
-利用vcftool软件进行vcf数据的切割（给大佬磕头）
+利用vcftool软件进行vcf数据的切割（给大佬磕头）Project website: https://vcftools.github.io/
 
 需要R包pheatmap;getopt;stringr
 
